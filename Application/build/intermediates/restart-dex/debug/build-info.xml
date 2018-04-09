@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<instant-run
+    abi="x86"
+    api-level="24"
+    density="420dpi"
+    format="8"
+    plugin-version="2.2.3"
+    timestamp="165393775558779"
+    token="-5194872295227260783"
+    verifier="COLD_SWAP_REQUESTED" >
+
+    <task
+        name="javac"
+        duration="107" />
+    <task
+        name="instant-run-dex"
+        duration="0" />
+    <task
+        name="instant-run-transform"
+        duration="24" />
+    <task
+        name="verifier"
+        duration="0" />
+
+    <artifact
+        location="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+        type="DEX" />
+
+    <build
+        timestamp="165169302021364"
+        verifier="FULL_BUILD_REQUESTED" >
+        <artifact
+            location="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/outputs/apk/Application-debug.apk"
+            type="MAIN" />
+    </build>
+    <build
+        timestamp="165393775558779"
+        verifier="COLD_SWAP_REQUESTED" >
+        <artifact
+            location="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/5/slice_1/classes.dex"
+            type="DEX" />
+    </build>
+
+</instant-run>

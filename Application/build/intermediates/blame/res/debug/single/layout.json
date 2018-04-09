@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/res/merged/debug/layout/activity_card_view.xml",
+        "source": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/src/main/res/layout/activity_card_view.xml"
+    },
+    {
+        "merged": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/fragment_card_view.xml",
+        "source": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/src/main/res/layout/fragment_card_view.xml"
+    },
+    {
+        "merged": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/build/intermediates/res/merged/debug/layout/activity_card_view.xml",
+        "source": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/src/main/res/layout/activity_card_view.xml"
+    },
+    {
+        "merged": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/res/merged/debug/layout/fragment_card_view.xml",
+        "source": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/src/main/res/layout/fragment_card_view.xml"
+    }
+]

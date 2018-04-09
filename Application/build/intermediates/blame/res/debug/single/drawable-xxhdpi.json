@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/prashantkaushik/Desktop/CardView-Basic/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/build/intermediates/res/merged/debug/drawable-xxhdpi/ic_launcher.png",
+        "source": "/Users/prashantkaushik/Desktop/android-CardView-master/Application/src/main/res/drawable-xxhdpi/ic_launcher.png"
+    }
+]

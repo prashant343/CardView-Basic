@@ -1,0 +1,7 @@
+#Fri Feb 24 12:02:12 IST 2017
+base.0=/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ced097c27ab0e38419e92911396f91ca6a36baec
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3753d60d9367c85bdcba08b36d0172771d2bbd95/classes.dex
+base.1=/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3753d60d9367c85bdcba08b36d0172771d2bbd95
+file.0=/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ced097c27ab0e38419e92911396f91ca6a36baec/classes.dex

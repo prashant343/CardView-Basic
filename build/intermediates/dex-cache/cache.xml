@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d32545b6e2cac7da2f461d5b7769ab9773b42c97">
+        <dex dex="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_3753d60d9367c85bdcba08b36d0172771d2bbd95/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prashantkaushik/Downloads/adt-bundle-mac-x86_64-20140702/sdk/extras/android/m2repository/com/android/support/support-annotations/24.0.0/support-annotations-24.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="2943c74db6d4346ab8c6531adac91fa05c137c40">
+        <dex dex="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.0.0_01acc24acd71ba32b2f89533659ab2f0f4cb73fd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="d2090bd56938d8977612f8cb037941c78452fbfd">
+        <dex dex="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_ced097c27ab0e38419e92911396f91ca6a36baec/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.0.0/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.1"
+        sha1="8dd49930e4f9dde1a42d37e362b9fea8b1b69c0d">
+        <dex dex="/Users/prashantkaushik/Desktop/CardView-Basic/Application/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.0.0_03062a7a2d7dcae2995fa496a6d1b9d161df7d71/classes.dex" />
+    </item>
+
+</items>
